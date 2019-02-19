@@ -15,4 +15,6 @@ $('.top').click(function(){
 	}, 700)
 })
 
-// $('.container-desain').height($(window).height() - 50)
+$('.navbar-nav a').click(function(){
+	$('.navbar-toggle').click()
+})
