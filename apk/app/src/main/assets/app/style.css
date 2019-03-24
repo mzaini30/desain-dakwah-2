@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px;
+  margin: auto;
+  background: black;
+}
+.container_desain {
+	width: 100%;
+	cursor: pointer;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
